@@ -1,0 +1,25 @@
+.cen{
+	width:1000px;
+	}
+img{
+	height:100%;
+	width:100%;
+	}
+table{
+		width:380px;
+		
+	}
+input{
+		position:center;
+		width:220px;
+		height:50px;
+		border:solid gold;
+		font-size:large;
+		}
+.btn{
+	background:orange;
+	height:100%;
+	border:solid gold 2px;
+	font-size:30px;
+	text-decoration:none;
+	}
